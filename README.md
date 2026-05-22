@@ -34,12 +34,19 @@ This project implements a lightweight code design for the architecture you descr
 
 
 ###Data
-##primeKG
-##数据集 Drugbank
+##包括PrimeKG和drugbank
 
+
+
+###Drugbank
 https://github.com/zcc1203/RAG4Drug
+##保存路径
+RAG4Drug/
 
-
+###PrimeKG
+wget -O kg.csv https://dataverse.harvard.edu/api/access/datafile/6180620
+##保存路径
+RAG4Drug/data/primekg/
 
 ## Quick Start
 
